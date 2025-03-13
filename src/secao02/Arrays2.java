@@ -1,3 +1,5 @@
+package secao02;
+
 public class Arrays2 {
     public static void main(String[] args) {
         int[] arrayDeInteiros = {1,2,3,4,5,6,767,878,8,8,9,9,9};

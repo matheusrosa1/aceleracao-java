@@ -1,4 +1,4 @@
-package com.betrybe.helloworld;
+package secao02.helloworld;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {

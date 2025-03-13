@@ -1,4 +1,4 @@
-package com.betrybe.trybank;
+package secao02.trybank;
 
 public class ContaBancaria {
     double saldo;

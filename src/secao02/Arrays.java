@@ -1,3 +1,5 @@
+package secao02;
+
 public class Arrays {
     public static void main(String[] args) {
         int[] arrayDeInteiros = new int[9];

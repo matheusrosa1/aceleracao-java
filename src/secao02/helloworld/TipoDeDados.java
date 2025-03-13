@@ -1,4 +1,4 @@
-package com.betrybe.helloworld;
+package secao02.helloworld;
 
 public class TipoDeDados {
     public static void main(String[] args) {

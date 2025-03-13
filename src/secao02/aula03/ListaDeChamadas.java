@@ -1,4 +1,4 @@
-package com.betrybe.aula03;
+package secao02.aula03;
 
 public class ListaDeChamadas {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.betrybe.helloworld;
+package secao02.helloworld;
 import java.lang.*;
 import java.lang.Math;
 
