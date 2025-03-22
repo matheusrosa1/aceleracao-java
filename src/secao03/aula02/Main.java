@@ -3,9 +3,9 @@ package secao03.aula02;
 public class Main {
 
     public static void main(String[] args) {
-        Warrior warrior = new Warrior();
-        warrior.setName("Aragorn");
-        warrior.setRace("Humano");
-        warrior.setWeapon("Espada");
+        Cleric cleric = new Cleric();
+        cleric.heal();                       // Cura básica
+        cleric.heal("Poção de Vida");        // Cura com a Poção de Vida
+        cleric.heal("Feitiço de Luz", 7);    // Cura com Feitiço de Luz e poder 7
     }
 }
