@@ -1,6 +1,6 @@
 package secao03.aula03;
 
-public class Desktop extends ComputerDevice {
+public final class Desktop extends ComputerDevice {
     public Desktop(String brand, double storageCapacity) {
         super(brand, storageCapacity);
     }
